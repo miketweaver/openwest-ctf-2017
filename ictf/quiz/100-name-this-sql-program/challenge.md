@@ -1,0 +1,7 @@
+# Croatia - Name this SQL Program
+```
+SELECT REPLACE(REPLACE('SELECT REPLACE(REPLACE("$",CHAR(34),CHAR(39)),CHAR(36),"$") AS Descr',CHAR(34),CHAR(39)),CHAR(36),'SELECT REPLACE(REPLACE("$",CHAR(34),CHAR(39)),CHAR(36),"$") AS Descr') AS Descr
+```
+
+# Points
+100
